@@ -19,12 +19,12 @@ Yellow Book is a tool custom built for a client who needed to record daily finan
 
 ## Screenshots
 
-![Alt text](/screenshots/dashboard.jpg?raw=true "Dashboard")
-![Alt text](/screenshots/credit-sales.jpg?raw=true "Credit Sales")
-![Alt text](/screenshots/cheques.png?raw=true "Cheques Categorised")
-![Alt text](/screenshots/new-sale.jpg?raw=true "New Sales")
-![Alt text](/screenshots/reports.jpg?raw=true "Reports")
-![Alt text](/screenshots/sales-history.jpg?raw=true "Sales History")
+![Alt text](/screenshots/dashboard.jpg "Dashboard")
+![Alt text](/screenshots/credit-sales.jpg "Credit Sales")
+![Alt text](/screenshots/cheques.png "Cheques Categorised")
+![Alt text](/screenshots/new-sale.jpg "New Sales")
+![Alt text](/screenshots/reports.jpg "Reports")
+![Alt text](/screenshots/sales-history.jpg "Sales History")
 
 ## Features
 
