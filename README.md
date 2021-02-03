@@ -5,6 +5,7 @@
 ## Table of contents
 
 - [General info](#introduction)
+- [Screnshots](#screenshots)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
@@ -15,6 +16,15 @@ Note: This application is still under development. 80% Done
 Todo: Dashboard Page, Purchases, Creditors, Expense register
 
 Yellow Book is a tool custom built for a client who needed to record daily finance details of their company where the directors could see the performance and standing of the company on a daily basis without having to wait for the statements from the Accounts department.
+
+## Screenshots
+
+![Alt text](/screenshots/dashboard.jpg?raw=true "Dashboard")
+![Alt text](/screenshots/credit-sales.jpg?raw=true "Credit Sales")
+![Alt text](/screenshots/cheques.png?raw=true "Cheques Categorised")
+![Alt text](/screenshots/new-sale.jpg?raw=true "New Sales")
+![Alt text](/screenshots/reports.jpg?raw=true "Reports")
+![Alt text](/screenshots/sales-history.jpg?raw=true "Sales History")
 
 ## Features
 
