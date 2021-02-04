@@ -17,18 +17,12 @@ Todo: Dashboard Page, Purchases, Creditors, Expense register
 
 Yellow Book is a tool custom built for a client who needed to record daily finance details of their company where the directors could see the performance and standing of the company on a daily basis without having to wait for the statements from the Accounts department.
 
-## Screenshots
-
-![Alt text](screenshots/dashboard.jpg "Dashboard")
-![Alt text](screenshots/credit-sales.jpg "Credit Sales")
-![Alt text](screenshots/cheques.png "Cheques Categorised")
-![Alt text](screenshots/new-sale.jpg "New Sales")
-![Alt text](screenshots/reports.jpg "Reports")
-![Alt text](screenshots/sales-history.jpg "Sales History")
-
 ## Features
 
 - Enter Daily sales with sales lead, mode of payment with cheque details
+- input field validation via Javascript
+- Adopted Javascript OOP concepts
+- Usage of JSON objects to pass data from Model pages
 - Display creditors due for payment
 - Insert details of collected credit with payment mode
 - Enter daily expenses made from the petty cash
@@ -41,7 +35,7 @@ Yellow Book is a tool custom built for a client who needed to record daily finan
 
 - PHP
 - JavaScript (ES6)
-- CSS
+- CSS / Bootstrap
 - MySQL
 
 ## Setup
@@ -49,3 +43,12 @@ Yellow Book is a tool custom built for a client who needed to record daily finan
 1. Host the files on a Server
 2. Import sql file (db_yellowbook.sql) into database on server
 3. access index.php on hosted folder root
+
+## Screenshots
+
+![Alt text](screenshots/dashboard.jpg "Dashboard")
+![Alt text](screenshots/credit-sales.jpg "Credit Sales")
+![Alt text](screenshots/cheques.png "Cheques Categorised")
+![Alt text](screenshots/new-sale.jpg "New Sales")
+![Alt text](screenshots/reports.jpg "Reports")
+![Alt text](screenshots/sales-history.jpg "Sales History")
