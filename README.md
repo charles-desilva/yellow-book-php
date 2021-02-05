@@ -13,7 +13,8 @@
 ## Introduction
 
 Note: This application is still under development. 80% Done
-Todo: Dashboard Page, Purchases, Creditors, Expense register
+Todo: 
+Dashboard Page, Purchases, Creditors, Expense register, Secure forms and pages 
 
 Yellow Book is a tool custom built for a client who needed to record daily finance details of their company where the directors could see the performance and standing of the company on a daily basis without having to wait for the statements from the Accounts department.
 
